@@ -1,0 +1,6 @@
+{
+  "name": "Neurona Cardióloga · Turno de Urgencia",
+  "description": "Juego interactivo de redes neuronales y bio-robótica para estudiantes. Calcula la suma ponderada del perceptrón y clasifica el riesgo cardíaco en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
